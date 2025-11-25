@@ -11,7 +11,7 @@ I'm an aspiring **Data Analyst** with a strong interest in using data to solve r
 
 ## Get in Touch 📬
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+  <a href="https://www.linkedin.com/in/ph%C6%B0%C6%A1ng-anh-tr%E1%BA%A7n-25b638289" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/tr.phnganh" alt="Facebook">
