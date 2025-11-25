@@ -21,10 +21,7 @@ I'm an aspiring **Data Analyst** with a strong interest in using data to solve r
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.kaggle.com/trphnganh" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png"/>
-  </a>
-  <a href="mailto:anhtp.working@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
   </a>
 </p>
 
